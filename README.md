@@ -6,5 +6,5 @@ Trained AI-model to detect colors in webcam feed and control video playback acco
 
 1. Clone the repository
 2. Install dependencies: `npm install`
-3. Start the development server: `npm start`
+3. Start the development server: `npm run dev`
 
